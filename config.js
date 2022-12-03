@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Happy birthday Ngoc Anh",
+    introTitle: 'Ngọc Anh',
+    introDesc: `Hôm nay chắc hẳn là một ngày đặc biệt đối với cậu nhỉ. Tớ chúc mừng sinh nhật cậu như là những gì 2 năm qua tớ chúc nha.`,
+    btnIntro: '^^Happy Brithday^^',
+    title: 'Chúc cậu tất cả, Tớ thì cũng vẫn mãi như thế không đổi đâu🥰',
+    desc: 'Chúc cậu và ny của mình sẽ luôn hạnh phúc bên nhau nha',
+    btnYes: 'Tất nhiên rồi <33',
+    btnNo: 'Không người tớ muốn bên cạnh là cậu :3',
+    question: 'Có điều gì muốn gửi cho mình hông nè<3',
+    btnReply: 'Gửi đến Lưu <3',
+    reply: 'Chúc Lưu mạnh khỏe nha',
+    mess: 'Mình biết mà 🥰. Yêu Ngọc Anh nhiều nhiều nha 😘😘',
+    messDesc: 'Cảm ơn Ngọc Anh đã đến bên Lưu vào năm Lưu 17 tuổi nhé',
+    btnAccept: 'Bye Lưu ',
+    messLink: 'https://youtu.be/7odrfJKxiSs' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
